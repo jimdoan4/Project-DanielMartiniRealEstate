@@ -501,13 +501,25 @@ a.top-scroll:hover {
 
 /* Devices under 576px (sm) */
 @media (max-width: 575px) {
+ 
+  .intro {
+    margin-top: -160px;
+  }
+
+  .intro h3 {
+    font-size: 18px;
+  }
+
+  .about-daniel p {
+    font-size: 14px;
+  }
   .caption h1 {
-    font-size: 1.9rem;
+    font-size: 2.5rem;
     letter-spacing: .1rem;
     padding-bottom: .4rem;
   }
   .caption h3 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     padding-bottom: 1rem;
   }
   .btn-lg {
