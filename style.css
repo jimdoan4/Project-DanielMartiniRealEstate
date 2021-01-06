@@ -258,7 +258,7 @@ img.example-image {
 
 .pricing-column {
   background-color: white;
-  padding: 2rem; 
+  padding: 1rem; 
   border-top: .2rem solid white;
   box-shadow: 0 0 .8rem rgba(0, 0, 0, 0.075);
   transition: transform .7s ease;
@@ -508,7 +508,9 @@ a.top-scroll:hover {
 
 /* Devices under 576px (sm) */
 @media (max-width: 575px) {
- 
+ /* .daniels {
+   display: block;
+ } */
   .intro {
     margin-top: -160px;
   }

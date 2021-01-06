@@ -13,7 +13,7 @@ margin-right: 0px!important;
 .landing {
   position: relative;
   width: 100%;
-  height: 100vh; /* Change height of landing page image. */
+  height: 60vh; /* Change height of landing page image. */
   display: table;
   z-index: -1;
 }
