@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
+.form-group input {
+  color: black!important;
+}
+
+.form-group textarea {
+  color: black!important;
+}
 .navbar.always-solid {
   background: rgba(0, 0, 0, 0.7)!important;
 }
@@ -93,12 +100,12 @@ body {
 }
 
 .about-it {
-  background-image: url('https://mansion-global-app.s3.amazonaws.com/stories/vancouver-special-report-vancouver-s-newest-crop-of-luxury-condos-offers-views-galore/assets/9rrqt2nnQ2/vancouvercondosshorthand_lead-2400x1451.jpeg');
+  background-image: url('Daniel-Martini/img/about-landing.jpg');
   height: 215px !important;
 }
 
 .buyers-it {
-  background-image: url('https://ap.rdcpix.com/2105246677/6df0e9a66aed3c3314a5d9cf2b35406fl-w0xd-w1020_h770_q80.jpg');
+  background-image: url('Daniel-Martini/img/buyers-landing.jpg');
   height: 425px !important;
 }
 
