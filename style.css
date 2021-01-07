@@ -460,6 +460,9 @@ a.top-scroll:hover {
 
 /* Devices under 992px (lg) */
 @media (max-width: 991px) {
+  #home {
+    height: 600px!important;
+  }
   .caption h1 {
     font-size: 3.5rem;
     letter-spacing: .2rem;
@@ -480,6 +483,7 @@ a.top-scroll:hover {
 
 /* Devices under 768px (md) */
 @media (max-width: 767px) {
+
   .caption h1 {
     font-size: 2.7rem;
     letter-spacing: .15rem;
@@ -507,10 +511,8 @@ a.top-scroll:hover {
 }
 
 /* Devices under 576px (sm) */
-@media (max-width: 575px) {
- /* .daniels {
-   display: block;
- } */
+@media (max-width: 576px) {
+
   .intro {
     margin-top: -160px;
   }
